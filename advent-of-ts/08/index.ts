@@ -1,8 +1,7 @@
-declare module 'santas-special-list' {
-	type Status = 'naughty' | 'nice'
-	type Child = {
-		name: string,
-		status: Status
+declare namespace NodeJS {
+	export interface ProcessEnv {
+		MOOD_LIGHTS: 'true',
+		BATH_TEMPERATURE: '327.59',
+		STRAWBERRIES: 'chocolate'
 	}
-	type List = Child[]
 }

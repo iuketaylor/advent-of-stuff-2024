@@ -1,29 +1,21 @@
-# 🌟Vixen Confronts 🪩Jamie
+# A Night With Mrs. Claus
 
 ```
-[🪩Jamie] You're lying. You didn't see anything because nothing was happening. I haven't done anything wrong!
+[🎅Santa's noticed that 💋Crystal Claus (his wife) is a little "on-edge" lately. He doesn't know why, but he wants to give her some much needed attention. 🎅Santa doesn't know about 💋Crystal's affair with 🪩Jamie Glitterglum]
 
-[🌟Vixen] I literally saw you and 💋Crystal with my own two eyes. Would you like me to describe the unicorn tattoo on your left cheek? Nice one, by the way.
+[🎅Santa, drawing 💋Crystal in for a kiss] 💋Crystal, my sweet, I thought we'd draw a bath and take the night to ourselves.
 
-[🪩Jamie, sweating] Damn it. You did see. What are you going to do?
+[💋Crystal] Oh, I had plans dear.
 
-[🌟Vixen] 🪩Jamie Glitterglum. It's not what I am going to do to you but rather what you are going to do for me.
+[🎅Santa] Surely you can reschedule?
 
-[🪩Jamie] Huh?
+[💋Crystal] Um. I guess I could.
 
-[🌟Vixen] We've been arguing with Santa about our pay. You seem like someone uniquely positioned to help get him to change his mind.
+[🎅Santa] Is that a new perfume you're wearing? Where have I smelled that before? It's heavenly.
 
-[🪩Jamie] You absolute jerk! You're blackmailing me!
+[💋Crystal, quickly and nervously] You know what! No problem! Let's get to it!
 
-[🌟Vixen] Look, we all have our own goals. Get 💋Crystal to convince him to pay us what we're worth. We literally haven't had a pay raise since 2009. This shouldn't be so hard, but you know 🎅Santa. He could care less about the rest of us.
-
-[🪩Jamie] Well how am I supposed to do that?
-
-[🌟Vixen] There's an npm I've been working on, santas-special-list. Honestly it’s a mess of untyped spaghetti code and patched dependencies, so good luck with that. Let's start there. It needs types. I was supposed to do it, but I need some cover so I can discuss all this with the other reindeer. You make the types for me so I can slip away for a few hours. I'll find you tomorrow and let you know what you need to do next.
-
-[🪩Jamie] I hate you. I have always hated you. Now I hate you more.
-
-[🌟Vixen] After what you're about to do for me, I think we're going to be great friends. 🖤
+[🎅Santa] Marvelous, now I just need to freshen up the environment. I think I'll turn on the mood lights, prepare some chocolate strawberries, and set the bath to 327.59 degrees. Not too cold, not too hot. And compliant with ISO 3103 standards for liquid enjoyment.
 ```
 
-🪩Jamie sure is in trouble. Help 🪩Jamie do 🌟Vixen's job by making types for the santas-special-list package. Things are really heating up in the North Pole!
+Only 🎅Santa, only you could turn romance into a NASA launch checklist. Still, let's help 🎅Santa set the environment up for a night with Mrs. Claus.
